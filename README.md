@@ -11,4 +11,5 @@
 [Ссылка на PDF](https://vk.com/doc7678344_614585146?hash=DJmUPvMC2SKgEars1MWaFeaT2HwpWX3uVzgLtRyWXgc&dl=GQ2TOMJXGQ3DQMQ:1651665530:aoBr8smnqrI7uzFEDNdK8wnzt8nuYzZJBsll1Vtl9yo&api=1&no_preview=1)
 ### Алгоритмы и структуры данных
 Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих
+
 [Ссылка на PDF](https://vk.com/doc2036633_461668315?hash=KvGIiDVJUFyysVxlOc3Oov0FNLE32ztLmOpTImFZX4o)
