@@ -13,7 +13,7 @@
 Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих
 
 [Ссылка на PDF](https://vk.com/doc2036633_461668315?hash=KvGIiDVJUFyysVxlOc3Oov0FNLE32ztLmOpTImFZX4o)
-### Cheatsheets
-[Zsh(Mac default shell)](https://devhints.io/zsh)
+### Шпаргалки
+Дефолтный терминал для Mac. [Zsh](https://devhints.io/zsh)
 
-[Makefile(Система сборки)](https://devhints.io/makefile)
+Система сборки. [Makefile](https://devhints.io/makefile)
