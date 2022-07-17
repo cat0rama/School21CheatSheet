@@ -10,7 +10,7 @@ PATHS=(
 	'~/Library/Application\ Support/Code/Cache/Cache_Data'
 	'~/Library/Application\ Support/Code/CachedExtensionVSIXs'
 	'~/Library/Application\ Support/Code/Crashpad'
-	'~/Library/Developer/CoreSimulator/Devices/*'
+	'~/Library/Developer/CoreSimulator'
 	'~/Library/Containers/com.apple.Safari/Data/Library/Caches'
 )
 
