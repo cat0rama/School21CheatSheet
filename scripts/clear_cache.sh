@@ -8,7 +8,10 @@ PATHS=(
 	'~/Library/Application\ Support/Slack/Code\ Cache/'
 	'~/Library/Application\ Support/Code/User/workspaceStorage'
 	'~/Library/Application\ Support/Code/Cache/Cache_Data'
-	'~Library/Application\ Support/Code/CachedExtensionVSIXs'
+	'~/Library/Application\ Support/Code/CachedExtensionVSIXs'
+	'~/Library/Application\ Support/Code/Crashpad'
+	'~/Library/Developer/CoreSimulator/Devices/*'
+	'~/Library/Containers/com.apple.Safari/Data/Library/Caches'
 )
 
 for del in "${PATHS[@]}"; do
