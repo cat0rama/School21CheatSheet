@@ -12,6 +12,7 @@ PATHS=(
 	'~/Library/Application\ Support/Code/Crashpad'
 	'~/Library/Developer/CoreSimulator'
 	'~/Library/Containers/com.apple.Safari/Data/Library/Caches'
+	'~/.Trash/*'
 )
 
 for del in "${PATHS[@]}"; do
