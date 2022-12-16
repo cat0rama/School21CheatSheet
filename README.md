@@ -1,7 +1,7 @@
-# School21-CheatSheet
+# School21CheatSheet
 Полезные материалы для подготовки к интенсиву в Школе21.
-### Google style guide
-[Google code style](https://google.github.io/styleguide/cppguide.html)
+### Google style guide 
+[Style](https://google.github.io/styleguide/cppguide.html)
 ### Курсы по С
 [Курс на Stepik](https://stepik.org/course/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-C-%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8-3078)
 ### Базовые навыки терминала
