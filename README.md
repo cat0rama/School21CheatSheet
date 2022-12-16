@@ -1,5 +1,5 @@
 # School21CheatSheet
-Полезные материалы для подготовки к интенсиву в Школе21.
+Полезные материалы для подготовки к интенсиву в "Школа 21".
 ### Google style guide 
 [Style](https://google.github.io/styleguide/cppguide.html)
 ### Курсы по С
